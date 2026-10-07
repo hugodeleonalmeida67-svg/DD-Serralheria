@@ -3,8 +3,9 @@ header{
     top: 0;
     left: 0;
     weight: 100%;
-    display: flex;
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
     text-align: center;
     color: #fff;
     background-color: #333333bd;
@@ -35,8 +36,7 @@ nav a {
     color: #fff;
 }
 .menu a {
-    display: flex;
-    justify-content: start;
+    display: grid;
     color: darkorange;
     font-size: 35px;
     font-weight: bold;
@@ -54,7 +54,7 @@ nav a {
 }
 
 p{
-    display: flex;
+    display: grid;
     color: #fff;
     font-size: 20px;
 }
