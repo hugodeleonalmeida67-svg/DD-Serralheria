@@ -36,7 +36,6 @@ nav a {
     color: #fff;
 }
 .menu a {
-    display: grid;
     color: darkorange;
     font-size: 35px;
     font-weight: bold;
