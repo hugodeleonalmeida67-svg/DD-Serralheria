@@ -122,8 +122,12 @@ figcaption{
 ul{
     color:white;
 }
-#t2{
-    margin-top: 20px;
+sitefooter{
+     display: flex;
+     justify-content: space-around;
+    background-color: black;
+    color:white;
+    padding: 20px;
 }
 
 
