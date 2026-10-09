@@ -79,6 +79,7 @@ h1 span{
 }
 
 #orçamento{
+    text-decoration: none;
     margin-left: 20px;
     background-color: rgba(0, 0, 0, 0.208);
     color: #fff;
